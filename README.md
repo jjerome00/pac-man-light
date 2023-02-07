@@ -2,10 +2,9 @@
 
 This is a simple hack of a Paladone "Pac Man and Ghosts" Light.
 
-example:
-https://www.amazon.com/Pac-Man-Ghosts-Light-USA/dp/B0851Y4314
+Having this code on github is a little much, but I push my hardware code up to github as backup. I'm always forgetting which computer has the thing I'm looking for. Maybe you'll find something useful here.
 
-This is overkill, but I push my hardware code up to github as a backup. Maybe you'll find something useful here.
+![example](pacman_light.gif)
 
 ## Default Operation (before modication)
 
@@ -47,13 +46,11 @@ When power is on, restarts at step 1
 
 ## Real world stuff
 
-I have an aquarium with a light that is attached to a motion control. When someone walks by the light turns on for ~5 minutes. I attached this light to the same system.
+I have a motion control switch that controls power to this device.   
+When someone walks by the light turns on for ~5 minutes.
 
-I used an Ardiuno Nano, which hover around $5 - $8 dollars
-I soldered my wires, somtimes poorly
+I used an Ardiuno Nano, which hover around $5 - $8 dollars, and a few low voltage wires.
 
-The physically button can still work with this setup, but there isn't much use for it.
-I may add a physical switch at some point so that I can turn off the light if it's plugged in.
 
 
 
